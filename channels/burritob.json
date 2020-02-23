@@ -205,7 +205,7 @@
 			"subtitle": "An iOS Frontend for Multiple Emulators",
 			"version": "1.4",
 			"versionDate": "2018-03-13",
-			"versionDescription": "New Featur es:\nPlayStation core\nPokémon mini core\nVirtual Boy core\nAtari 7800 & Lynx core\nNeo Geo Pocket / Neo Geo Pocket Color core\nPC Engine / TurboGrafx-16 (CD) core\nSuperGrafx core\nPC-FX core\nWonderSwan core\nCRT Shader\n\nImprovements\nImporter improvements (MD5 matching and performance improvements)",
+			"versionDescription": "New Features:\nPlayStation core\nPokémon mini core\nVirtual Boy core\nAtari 7800 & Lynx core\nNeo Geo Pocket / Neo Geo Pocket Color core\nPC Engine / TurboGrafx-16 (CD) core\nSuperGrafx core\nPC-FX core\nWonderSwan core\nCRT Shader\n\nImprovements\nImporter improvements (MD5 matching and performance improvements)",
 			"downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/1.4/Provenance-Release-1.4.ipa",
 			"localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
 			"iconURL": "https://pbs.twimg.com/profile_images/980683701628497920/Iv0DTyQA_400x400.jpg",
