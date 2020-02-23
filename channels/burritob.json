@@ -328,7 +328,7 @@
 		{
 			"title": "What's New",
 			"identifier": "whatsnew",
-			"caption": "- Added UTM, note that the screenshot is intended to be a placeholder image for now.\n\nThanks for testing Burrito's AltStore.",
+			"caption": "- Added Thermometer, by Ryan McLeod. Perfect for checking device throttle.\n- Added UTM, note that the screenshot is intended to be a placeholder image for now.\n\nThanks for testing Burrito's AltStore.",
 			"tintColor": "018084",
 			"date": "2020-02-13",
 			"notify": false
