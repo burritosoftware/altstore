@@ -294,7 +294,7 @@
 		{
 			"title": "Connected to BurritoServer",
 			"identifier": "connection",
-			"caption": "Release Channel: beta | Have fun! If you need help, tap here to go to our website.",
+			"caption": "Release Channel: beta | Please make sure to download and use the AltStore beta instead of the regular AltStore. It can be found for free in the Browse tab. Have questions? DM Burrito or tap to visit our website.",
 			"tintColor": "FF9500",
 			"url": "https://burritosoftware.github.io",
 			"date": "2020-02-14",
