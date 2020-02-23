@@ -220,7 +220,24 @@
 				"https://38.media.tumblr.com/d964d6d809d06c55f23c4ef65eee08ce/tumblr_nhqpnuOa2o1t0wlalo2_1280.jpg",
 				"https://41.media.tumblr.com/c4e7f2d9363db90f89f91abc327033f0/tumblr_neu1ewLoQU1t0wlalo2_400.jpg"
 			]
-        },
+		},
+		{
+			"name": "UTM",
+			"bundleIdentifier": "com.osy86.UTM",
+			"developerName": "osy86",
+			"subtitle": "Run virtual machines on iOS",
+			"version": "0.1",
+			"versionDate": "2020-02-19",
+			"versionDescription": "Please visit https://getutm.app/install for more details.",
+			"downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.1/UTM.ipa",
+			"localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\n\nFeatures:\n30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\nFast native graphics through para-virtualization thanks to SPICE\nJIT based acceleration using qemu TCG\nFrontend designed from scratch for iOS11+ using the latest and greatest APIs\nCreate, manage, run VMs directly from your device\nNo jailbreak required!",
+			"iconURL": "https://getutm.app/assets/appicon.png",
+			"tintColor": "1E47D0",
+			"size": 124967347,
+			"screenshotURLs": [
+				"http://placehold.it/750x1334"
+			]
+		},
 		{
 			"name": "appdb",
 			"bundleIdentifier": "it.ned.appdb-ios",
@@ -294,7 +311,7 @@
 		{
 			"title": "What's New",
 			"identifier": "whatsnew",
-			"caption": "Please make sure to download and use the AltStore beta instead of the regular AltStore. It can be found for free in the Browse tab. Have questions? DM Burrito.",
+			"caption": "- Added UTM, note that the screenshot is intended to be a placeholder image for now.\n\nThanks for testing Burrito's AltStore.",
 			"tintColor": "018084",
 			"date": "2020-02-13",
 			"notify": false
