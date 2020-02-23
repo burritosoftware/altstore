@@ -30,10 +30,10 @@
 			]
 		},
 		{
-			"name": "AltStore",
+			"name": "AltStore (Beta)",
 			"bundleIdentifier": "com.rileytestut.AltStore.Beta",
 			"developerName": "Riley Testut",
-			"subtitle": "An alternative App Store for iOS.",
+			"subtitle": "AltStore Beta is required for testing.",
 			"version": "1.2b4",
 			"versionDate": "2020-02-11T18:30:00-08:00",
 			"versionDescription": "• View all registered App IDs for your account\n• Fixed inaccurate remaining App ID count\n\nThis is the final beta for AltStore 1.2 before the public release, which includes support for installing apps completely over USB. To test installing over USB, make sure to download the AltServer beta from https://altstore.io/altserver/beta",
@@ -42,7 +42,7 @@
 			"iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
 			"tintColor": "018084",
 			"size": 2114670,
-			"beta": true,
+			"beta": false,
 			"screenshotURLs": [
 				"https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
 				"https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
