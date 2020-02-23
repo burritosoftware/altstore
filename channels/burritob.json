@@ -282,7 +282,7 @@
 	],
 	"news": [
 		{
-			"title": "unc0ver now out!",
+			"title": "unc0ver is now out!",
 			"identifier": "undecimus",
 			"caption": "The most advanced jailbreak tool. Tap to download.",
 			"tintColor": "101216",
@@ -292,9 +292,17 @@
 			"notify": false
 		},
 		{
-			"title": "Connected to BurritoServer",
+			"title": "What's New",
+			"identifier": "whatsnew",
+			"caption": "Please make sure to download and use the AltStore beta instead of the regular AltStore. It can be found for free in the Browse tab. Have questions? DM Burrito.",
+			"tintColor": "018084",
+			"date": "2020-02-13",
+			"notify": false
+		},
+		{
+			"title": "Welcome to Burrito's AltStore",
 			"identifier": "connection",
-			"caption": "Release Channel: beta | Please make sure to download and use the AltStore beta instead of the regular AltStore. It can be found for free in the Browse tab. Have questions? DM Burrito or tap to visit our website.",
+			"caption": "Release Channel: beta | Version: 1.0b | Tap to visit our website.",
 			"tintColor": "FF9500",
 			"url": "https://burritosoftware.github.io",
 			"date": "2020-02-14",
