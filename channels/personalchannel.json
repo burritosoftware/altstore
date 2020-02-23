@@ -83,7 +83,7 @@
 			]
 		},
 		{
-			"name": "Delta",
+			"name": "Delta (Beta)",
 			"bundleIdentifier": "com.rileytestut.Delta.Beta",
 			"developerName": "Riley Testut",
 			"subtitle": "Classic games in your pocket.",
@@ -95,7 +95,7 @@
 			"iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
 			"tintColor": "8A28F7",
 			"size": 17631726,
-			"beta": true,
+			"beta": false,
 			"permissions": [{
 				"type": "photos",
 				"usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
@@ -108,7 +108,7 @@
 			]
 		},
 		{
-			"name": "Clip",
+			"name": "Clip (Beta)",
 			"bundleIdentifier": "com.rileytestut.Clip.Beta",
 			"subtitle": "Manage your clipboard history with ease.",
 			"developerName": "Riley Testut",
@@ -120,7 +120,7 @@
 			"iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
 			"tintColor": "EC008C",
 			"size": 462771,
-			"beta": true,
+			"beta": false,
 			"permissions": [{
 				"type": "background-audio",
 				"usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
@@ -153,7 +153,7 @@
 			]
 		},
 		{
-			"name": "Delta Lite",
+			"name": "Delta Lite (Beta)",
 			"bundleIdentifier": "com.rileytestut.Delta.Lite.Beta",
 			"developerName": "Riley Testut",
 			"subtitle": "The 80s (and 90s) in your pocket.",
@@ -165,7 +165,7 @@
 			"iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
 			"tintColor": "8A28F7",
 			"size": 16509767,
-			"beta": true,
+			"beta": false,
 			"permissions": [{
 				"type": "photos",
 				"usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
@@ -328,7 +328,7 @@
 		{
 			"title": "What's New",
 			"identifier": "whatsnew",
-			"caption": "- Added UTM, note that the screenshot is intended to be a placeholder image for now.\n\nThanks for testing Burrito's AltStore.",
+			"caption": "- Free beta apps, personal use only for Burrito",
 			"tintColor": "018084",
 			"date": "2020-02-13",
 			"notify": false
@@ -336,7 +336,7 @@
 		{
 			"title": "Welcome to Burrito's AltStore",
 			"identifier": "connection",
-			"caption": "Release Channel: beta | Version: 1.0b | Tap to visit our website.",
+			"caption": "Release Channel: personal | Version: 1.0b | Tap to visit our website.",
 			"tintColor": "FF9500",
 			"url": "https://burritosoftware.github.io",
 			"date": "2020-02-14",
