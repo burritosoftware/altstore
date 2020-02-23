@@ -1,7 +1,7 @@
 {
 	"name": "AltStore",
 	"identifier": "com.rileytestut.AltStore",
-	"sourceURL": "https://burritosoftware.github.io/channels/burritob.json",
+	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritob.json",
 	"apps": [{
 			"name": "AltStore",
 			"bundleIdentifier": "com.rileytestut.AltStore",
