@@ -324,7 +324,7 @@
 		{
 			"title": "What's New",
 			"identifier": "whatsnew",
-			"caption": "- Free beta apps, personal use only for Burrito",
+			"caption": "- Free beta apps, personal use only for Burrito\n\nVersions listed in apps.json must be the same as the version in Info.plist to prevent update errors.",
 			"tintColor": "018084",
 			"date": "2020-02-13",
 			"notify": false
