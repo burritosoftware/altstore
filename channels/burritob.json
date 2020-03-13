@@ -33,31 +33,31 @@
 			"name": "AltStore (Beta)",
 			"bundleIdentifier": "com.rileytestut.AltStore.Beta",
 			"developerName": "Riley Testut",
-			"subtitle": "AltStore Beta is required for testing.",
-			"version": "1.2b4",
-			"versionDate": "2020-02-11T18:30:00-08:00",
-			"versionDescription": "• View all registered App IDs for your account\n• Fixed inaccurate remaining App ID count\n\nThis is the final beta for AltStore 1.2 before the public release, which includes support for installing apps completely over USB. To test installing over USB, make sure to download the AltServer beta from https://altstore.io/altserver/beta",
+			"subtitle": "An alternative App Store for iOS.",
+			"version": "1.3b",
+			"versionDate": "2020-03-12T11:00:00-07:00",
+			"versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nAs of iOS 13.3.1, free developer accounts are limited to 3 \"active\" apps. This update allows you to selectively activate/deactivate your installed apps. This means you can still install more than 3 apps overall, but only 3 may be active at any one time.\n\nAdditionally, this update also:\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi",
 			"downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
 			"localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
 			"iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
 			"tintColor": "018084",
-			"size": 2114670,
-			"beta": false,
+			"size": 2095578,
 			"screenshotURLs": [
-				"https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-				"https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-				"https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+			  "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+			  "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+			  "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
 			],
-			"permissions": [{
-					"type": "background-fetch",
-					"usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-				},
-				{
-					"type": "background-audio",
-					"usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
-				}
+			"permissions": [
+			  {
+				"type": "background-fetch",
+				"usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+			  },
+			  {
+				"type": "background-audio",
+				"usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+			  }
 			]
-		},
+		  },
 		{
 			"name": "Delta",
 			"bundleIdentifier": "com.rileytestut.Delta",
